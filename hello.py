@@ -10,3 +10,4 @@ yearly_gross_pay =  hour_worked * rate * 52
 
 print(f"The grossly pay for the week is {weekly_gross_pay} "
       f", month is {monthly_gross_pay} and year is {yearly_gross_pay}")
+            
