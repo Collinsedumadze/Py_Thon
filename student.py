@@ -1,4 +1,4 @@
-"""
+
 def main():
     name = get_name()
     house = get_house()
@@ -65,8 +65,14 @@ def Student():
 
 if __name__ =="__main__":
     main()
-"""
+
+
+# finding the range of 0 to 10  
 
 for i in range(0,10):
     print(i )
 print('end')
+
+
+k = 'LLL' 
+print(k.upper())
