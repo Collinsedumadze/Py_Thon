@@ -16,3 +16,8 @@ print("hello,", name.title())
 #Escape keyword
 print("hello, \"David\"")
 
+#using the split function
+print(name.split())
+
+#Combimation of some functions
+print("hello,", name.strip().title().split())
